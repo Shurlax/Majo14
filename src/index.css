@@ -1,0 +1,17 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fuente general */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #fff;
+}
+
+/* Transiciones suaves */
+a, button {
+  transition: all 0.3s ease-in-out;
+}
