@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import Header from "./components/Header";
 import Historia from "./components/Historia";
 import Galeria from "./components/Galeria";
