@@ -10,8 +10,7 @@ function App() {
       <Header />
       <Historia />
       <Galeria />
-
-    </div>
+      </div>
   );
 }
 
