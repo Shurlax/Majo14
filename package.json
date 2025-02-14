@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://Shurlax.github.io/Majo14",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,10 +11,9 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
-
   },
   "dependencies": {
+    "esbuild": "^0.24.2",
     "framer-motion": "^12.4.2",
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
